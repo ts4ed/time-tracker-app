@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.b07fd328.css",
-    "main.js": "/react-homework-template/static/js/main.17f04a34.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.b07fd328.css.map": "/react-homework-template/static/css/main.b07fd328.css.map",
-    "main.17f04a34.js.map": "/react-homework-template/static/js/main.17f04a34.js.map"
+    "main.css": "/time-tracker-app/static/css/main.b07fd328.css",
+    "main.js": "/time-tracker-app/static/js/main.2f51bd94.js",
+    "index.html": "/time-tracker-app/index.html",
+    "main.b07fd328.css.map": "/time-tracker-app/static/css/main.b07fd328.css.map",
+    "main.2f51bd94.js.map": "/time-tracker-app/static/js/main.2f51bd94.js.map"
   },
   "entrypoints": [
     "static/css/main.b07fd328.css",
-    "static/js/main.17f04a34.js"
+    "static/js/main.2f51bd94.js"
   ]
 }

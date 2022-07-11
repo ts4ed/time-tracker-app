@@ -1,4 +1,4 @@
-import TimeTracker from './time-tracker/TimeTracker';
+import TimeTracker from './timeTracker/TimeTracker';
 
 export const App = () => {
   return <TimeTracker />;
